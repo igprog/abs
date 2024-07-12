@@ -41,5 +41,9 @@
     "phone": "Phone",
     "menu": "Menu",
     "close": "Close",
-    "smartTV": "smart TV"
+    "smartTV": "smart TV",
+    "price": "Price",
+    "month": "Month",
+    "and": "and",
+    "webDesign": "Web design"
 }

@@ -56,7 +56,7 @@ export default {
         { link: "/", title: "homePage", ico: null, isVisible: true },
         { link: "gallery", title: "gallery", ico: null, isVisible: true },
         { link: "booking", title: "booking", ico: null, isVisible: false },
-        { link: "prices", title: "prices", ico: null, isVisible: false },
+        { link: "prices", title: "prices", ico: null, isVisible: true },
         { link: "location", title: "location", ico: null, isVisible: false },
         { link: "contact", title: "contact", ico: null, isVisible: true },
         { link: "test", title: "Test", ico: null, isVisible: false },
