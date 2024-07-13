@@ -46,7 +46,7 @@
       <footer class="container-fluid pt-3">
         <div class="text-center">
           <span class="small"
-            >Copyright © {{ year }} {{ $t('appName') }} | {{ $t('webDesign') }} :
+            >© {{ year }} {{ $t('appName') }} | {{ $t('webDesign') }} :
             <a
               href="https://www.igprog.hr"
               title="Izrada web stranica i aplikacija"

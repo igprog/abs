@@ -4,10 +4,13 @@
       <h2 class="pt-5">{{ $t('contact') }}</h2>
       <hr>
       <div class="row mt-5">
-        <div class="col-lg-5 pb-5">
+        <div class="col-lg-4 pb-5">
           <c-contact :showIcon="true" aColor="#000" />
         </div>
-        <div class="col-lg-7">
+        <div class="col-lg-4 text-center py-3">
+          <img :src="require(`@/assets/img/street_view.png`)" alt="street_view" class="img-fluid" />
+        </div>
+        <div class="col-lg-4 py-3">
           <c-map />
         </div>
       </div>
